@@ -1,0 +1,31 @@
+body { 
+    font-family: 'Open Sans', sans-serif; 
+    color: #333;
+    background-color: peachpuff; 
+  } 
+  
+  header h1 { 
+    font-family: 'Pacifico', cursive; 
+    text-align: center;
+    background-color: black;
+    
+  } 
+  
+  section h2 { 
+    font-weight: bold; 
+    text-transform: uppercase; 
+  } 
+  
+  p { 
+    font-size: 1.2em; 
+    line-height: 1.5; 
+    margin-bottom: 1.5em; 
+  } 
+  
+  footer p { 
+    text-align: center; 
+  }
+
+
+
+  
